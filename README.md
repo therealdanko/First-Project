@@ -6,3 +6,5 @@ As a user, I want to apply changes to any elements in the database. For example;
 
 As a user, I want these changes to be applied on the site, without changing the original database. 
 
+Wireframe:
+https://lucid.app/documents/view/84a9b4e8-320f-410b-9e09-46e8a7d27bc5
