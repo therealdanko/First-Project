@@ -10,8 +10,6 @@ As a user, I want to apply changes to any elements in the database. For example;
 
 As a user, I want these changes to be applied on the site, without changing the original database.
 
-Wireframe for flow chart
-https://lucid.app/documents/view/84a9b4e8-320f-410b-9e09-46e8a7d27bc5
+![flowchart image](flow.jpg)
 
-Wireframe for how the page will look
-https://lucid.app/lucidchart/c8cba87b-4c67-48d2-b6db-af771f5224fb/edit?invitationId=inv_9abf4a12-39ca-4de0-9d3e-5d47acb56241&page=0_0#
+![layout image](layout.jpg)
