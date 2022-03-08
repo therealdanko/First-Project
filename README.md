@@ -10,6 +10,6 @@ As a user, I want to apply changes to any elements in the database. For example;
 
 As a user, I want these changes to be applied on the site, without changing the original database.
 
-![flowchart image](file://wsl%24/Ubuntu/home/drk/Development/code/phase-1/First-Project/Project%20images/Flow%20Chart.png)
+![Flow Chart](https://user-images.githubusercontent.com/98357863/157344300-bbdc11f4-2c39-4059-9fb3-37a979beaeac.png)
 
-![layout image](file://wsl%24/Ubuntu/home/drk/Development/code/phase-1/First-Project/Project%20images/Page%20Layout%20Mock%20up.png)
+![Page Layout Mock up](https://user-images.githubusercontent.com/98357863/157344351-ecffc4f1-dbc1-4886-b01d-131142385645.png)
